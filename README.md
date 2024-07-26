@@ -23,3 +23,6 @@ Fabric API
 Surveyor Map Framework
 Connector
 ----------------------
+naturalist
+Geckolib
+----------------------
