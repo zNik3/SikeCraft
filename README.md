@@ -26,5 +26,14 @@ Connector
 naturalist
 Geckolib
 ----------------------
-Oculus-mc
+Canary
+Clumps
+Entityculling
+Fastload
+FpsReducer2
+Oculus
+Saturn
+Smoothboot
+Starlight
+Essential
 ----------------------
