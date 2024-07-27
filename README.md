@@ -22,5 +22,5 @@ Oculus
 Saturn
 Smoothboot
 Starlight
-Essential
 ----------------------
+Essential 1.20.1  https://essential.gg/en
