@@ -29,6 +29,12 @@ Geckolib
 ----------------------
 jet_and_elias_armor
 ----------------------
+Biomes O' Plenty
+TerraBlender
+----------------------
+Bag Of Holding
+Puzzles Lib
+----------------------
 Canary
 Clumps
 Entityculling
