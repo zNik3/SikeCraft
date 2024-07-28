@@ -4,9 +4,6 @@ Create
 Eureke
 Kotlinforforge
 ----------------------
-Butcher
-Geckolib
-----------------------
 Hexerei
 ----------------------
 jei
