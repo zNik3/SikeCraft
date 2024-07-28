@@ -13,6 +13,9 @@ jei
 ----------------------
 Stargate Journey
 ----------------------
+Twilightforest
+Aether
+----------------------
 Canary
 Clumps
 Entityculling
