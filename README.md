@@ -12,6 +12,7 @@ Stargate Journey
 ----------------------
 Twilightforest
 Aether
+Deep Aether
 ----------------------
 Waystone
 Balm
