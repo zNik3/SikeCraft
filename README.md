@@ -35,6 +35,12 @@ TerraBlender
 Bag Of Holding
 Puzzles Lib
 ----------------------
+ad_astra
+----------------------
+twilight_delight
+aeathe_delight
+FarmersDelight
+----------------------
 Canary
 Clumps
 Entityculling
