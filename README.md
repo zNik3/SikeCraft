@@ -36,6 +36,9 @@ Bag Of Holding
 Puzzles Lib
 ----------------------
 ad_astra
+Botarium
+Resourceful Config
+Resourceful Lib
 ----------------------
 twilight_delight
 aeathe_delight
