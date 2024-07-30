@@ -45,6 +45,14 @@ twilight_delight
 aeathe_delight
 FarmersDelight
 ----------------------
+antique-atlas
+surveyor
+Connector
+fabric-api
+----------------------
+wthit
+badpackets
+----------------------
 Canary
 Clumps
 Entityculling
